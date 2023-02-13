@@ -2,13 +2,42 @@
 
 🌱 프론트 엔드 개발자 김나희 입니다. 
 
-### Front-end Developers
+<div align=center>
+  
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Nahee's&nbsp;GitHub&fontSize=40&animation=twinkling)
 
-<img width="74" alt="image" src="https://user-images.githubusercontent.com/115388103/208362900-093d52b7-b700-44a8-a762-d5d5ea1025b9.png"><img width="80" alt="image" src="https://user-images.githubusercontent.com/115388103/208362924-eeec0bf6-17cf-4757-bf60-dda05a379106.png"><img width="78" alt="image" src="https://user-images.githubusercontent.com/115388103/208362957-9adcb30f-b35d-459f-addc-d82dd35e2f16.png"><img width="79" alt="image" src="https://user-images.githubusercontent.com/115388103/208362987-95ddd35a-db2a-46b8-9ce1-cccb7ce6c03c.png"><img width="72" alt="image" src="https://user-images.githubusercontent.com/115388103/208363024-1c8af346-3b28-4899-b1bb-df8d8908a8b7.png">
 
-### Tools
-![image](https://user-images.githubusercontent.com/115388103/208361355-ca93f008-f1d6-47f1-8c30-2e98751f1b4d.png)![image](https://user-images.githubusercontent.com/115388103/208361374-ab0e86a1-ac31-4e5a-a79b-e2d8d72112ad.png)![image](https://user-images.githubusercontent.com/115388103/208361379-efbe9ebb-c405-4116-92f3-d6ae50b08529.png)
-![image](https://user-images.githubusercontent.com/115388103/208361271-3b3f4438-1136-46e3-bd37-454434ec3773.png)![image](https://user-images.githubusercontent.com/115388103/208361284-cd2845b0-0482-415d-a501-fdde7bf5a979.png)![image](https://user-images.githubusercontent.com/115388103/208361298-088ef8f4-a140-4a03-9a9c-0f687358cf2e.png)![image](https://user-images.githubusercontent.com/115388103/208361316-00647647-bd5a-4f81-bc14-bcf371b8d26c.png)![image](https://user-images.githubusercontent.com/115388103/208361335-f0669e80-3104-41a5-97ec-cc1e68c5bfb8.png)
+
+## :books: STUDYING
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+</div>
+
+
+|JavaScript|TypeScript|React|Sass|
+| :--: | :--: | :--: | :--: |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /></div> |
+
+## :wrench: TOOL
+<div>
+  <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
+</div>
+
+
+<!--   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /> -->
+
+
+<!-- <img src="https://img.shields.io/badge/styled--components-8D5078?style=flat&logo=styled-components&logoColor=white"/> -->
 
 
 <!--
