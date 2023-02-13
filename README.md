@@ -7,7 +7,7 @@
 
 
 
-## :books: STUDYING
+## 👩🏻‍💻 STUDYING
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -19,7 +19,7 @@
 | :--: | :--: | :--: | :--: |
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /></div> |
 
-## :wrench: TOOL
+## ⚒ TOOL
 <div>
   <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
