@@ -1,10 +1,9 @@
-### About Me
 
-🌱 프론트 엔드 개발자 김나희 입니다. 
+
 
 <div align=center>
   
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Nahee's&nbsp;GitHub&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=🌱Nahee's&nbsp;GitHub&fontSize=40&animation=twinkling)
 
 
 
@@ -30,6 +29,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
 </div>
+
 
 
 <!--   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" />
