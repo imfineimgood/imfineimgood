@@ -1,6 +1,4 @@
 
-
-
 <div align=center>
   
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=🌱Nahee's&nbsp;GitHub&fontSize=40&animation=twinkling)
